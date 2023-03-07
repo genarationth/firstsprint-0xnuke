@@ -17,5 +17,5 @@ Website Figma -- https://www.figma.com/
 ## Task 2: Submit your Wireframe design.
 Edit this Readme.md by attach link of your figma design.
 
-Paste you Figma designe here : 
+Paste you Figma designe here : https://www.figma.com/file/07Y0w5xotbzAJE2JDJVetI/Untitled?node-id=5%3A29&t=3pk7erVPmjkTCcLi-1
 
